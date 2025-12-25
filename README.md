@@ -97,17 +97,10 @@
 </section>
 
 <!-- آثار القرآن -->
-<section id="effects">
+<section id="effecs">
   <h2>آثار القرآن الكريم</h2>
   <p>يقوي الإيمان – يزرع الطمأنينة – يهذب الأخلاق</p>
 <img src="quran1.png">
-
-
-
-  <video controls>
-    <source src="quran_video.mp4" type="video/mp4">
-    المتصفح لا يدعم الفيديو
-  </video>
 </section>
 
 <!-- المؤلفات -->
