@@ -100,13 +100,10 @@
 <section id="effects">
   <h2>آثار القرآن الكريم</h2>
   <p>يقوي الإيمان – يزرع الطمأنينة – يهذب الأخلاق</p>
-<img src="quran1.png" alt="صورة قرآن 1">
-<img src="quran2.png" alt="صورة قرآن 2">
-<img src="quran3.png" alt="صورة قرآن 3">
-<img src="quran4.png" alt="صورة قرآن 4">
-<img src="quran5.png" alt="صورة قرآن 5">
-<img src="quran6.png" alt="صورة قرآن 6">
+<img src="quran1.png">
 
+img src="advice.jpg">
+ 
   <video controls>
     <source src="quran_video.mp4" type="video/mp4">
     المتصفح لا يدعم الفيديو
