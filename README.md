@@ -100,7 +100,7 @@
 <section id="effects">
   <h2>آثار القرآن الكريم</h2>
   <p>يقوي الإيمان – يزرع الطمأنينة – يهذب الأخلاق</p>
-<img src="quran1.png" alt="صورة قرآن 1">
+<img src="quran1.png" >
 
 
   <video controls>
