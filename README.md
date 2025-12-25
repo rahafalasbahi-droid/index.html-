@@ -100,7 +100,7 @@
 <section id="effecs">
   <h2>آثار القرآن الكريم</h2>
   <p>يقوي الإيمان – يزرع الطمأنينة – يهذب الأخلاق</p>
-<img src="quran1.png">
+<section id="quran1".png">
 </section>
 
 <!-- المؤلفات -->
